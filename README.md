@@ -1,11 +1,11 @@
  
 
-## **Lite BMC Firmware Flash utility** 
+## **Lite BMC Firmware Flash Utility** 
 it provides to update the LiteBMC firmware on SAMRC ARM & x86-64 platforms. It uses I2C (for arm) / SMBUS(for x86) to communicate with the Lite BMC. This document will help to understand the Flash Firmware Utility supported features and how user can use it.
 
 
 
-## How to build & install  
+## How to Build & Install  
 
 1. Install required dependencies.
 
