@@ -7,7 +7,7 @@ it provides to update the LiteBMC firmware on SMARC ARM & x86-64 platforms. It u
 
 ## How to Build & Install  
 
-1. Install required dependencies.
+1. Install required dependencies on your target device
 
 
 | Supported Hardware                                           | **Architecture** | **Build Environmental details**                              |
