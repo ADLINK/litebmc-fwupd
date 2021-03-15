@@ -113,7 +113,9 @@ The command **ad-litbmc-fwupd** is used in Linux to flash LiteBMC firmware on yo
   
 
 
-
+  
+ <br>
+    ADLINK internal gitlab commit ID: 22e6cfc7e8025c4c570d7782b460b050881e425a 
  
 
 
