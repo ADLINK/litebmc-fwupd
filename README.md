@@ -21,6 +21,7 @@ it provides to update the LiteBMC firmware on SMARC ARM & x86-64 platforms. It u
    ```
    $ cd litbmc-fwupd/<arch_folder_name>/     
    $ chmod 777 ad-litbmc-fwupd
+   $ cp ad-litbmc-fwupd /usr/bin
    ```
 
    **Note:**
